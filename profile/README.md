@@ -1,6 +1,6 @@
 # 🚀 ComunidadDevOps
 
-### DevOps • DevSecOps • SRE • Platform Engineering • Cloud Native
+### DevOps • DevSecOps • SRE • Platform Engineering • Cloud Native • GenAI
 
 Laboratorios prácticos, guías paso a paso y proyectos reales para construir habilidades de ingeniería de plataforma moderna.
 
@@ -19,6 +19,7 @@ Un hub técnico para aprender construyendo:
 - 🏗️ Tooling de plataforma
 - 🔁 CI/CD y pipelines
 - 📦 Containers & APIs
+- 🤖 GenAI
 
 ---
 
