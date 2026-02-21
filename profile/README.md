@@ -1,6 +1,6 @@
 # 🚀 ComunidadDevOps
 
-### DevOps • DevSecOps • Platform Engineering • Cloud Native
+### DevOps • DevSecOps • SRE • Platform Engineering • Cloud Native
 
 Laboratorios prácticos, guías paso a paso y proyectos reales para construir habilidades de ingeniería de plataforma moderna.
 
@@ -12,6 +12,7 @@ Un hub técnico para aprender construyendo:
 
 - ⚙️ DevOps real
 - 🛡️ DevSecOps
+- 🔐 SRE
 - ☸️ Kubernetes
 - 🧩 Platform Engineering
 - 🐹 Go para automatización
