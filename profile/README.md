@@ -1,37 +1,86 @@
-🚀 ComunidadDevOps
+# 🚀 ComunidadDevOps
 
-Bienvenido — este es un espacio para aprender y construir habilidades reales en: • DevOps • Platform Engineering • Cloud Native • Kubernetes • Go para automatización de plataformas • Infraestructura como código • Automatización y tooling
+### DevOps • DevSecOps • Platform Engineering • Cloud Native
 
-Aquí encontrarás repositorios prácticos, guías paso a paso y proyectos enfocados en ingeniería de plataformas reales.
+Laboratorios prácticos, guías paso a paso y proyectos reales para construir habilidades de ingeniería de plataforma moderna.
 
-⸻
+---
 
-📚 Proyectos Destacados • golang-for-platform-engineers Aprende Go enfocado en controllers, APIs, automatización y tooling de plataforma. • Laboratorios de Kubernetes • Ejemplos de automatización • Tooling para platform teams
+## 🧭 Qué es ComunidadDevOps
 
-⸻
+Un hub técnico para aprender construyendo:
 
-🧪 Enfoque
+- ⚙️ DevOps real
+- 🛡️ DevSecOps
+- ☸️ Kubernetes
+- 🧩 Platform Engineering
+- 🐹 Go para automatización
+- 🏗️ Tooling de plataforma
+- 🔁 CI/CD y pipelines
+- 📦 Containers & APIs
 
-Este no es contenido solo teórico. La idea es: • aprender construyendo • ejemplos ejecutables • patrones de producción • casos reales de plataforma • código claro y explicaciones simples
+---
 
-⸻
+## 📦 Proyectos destacados
 
-🛠 Stack frecuente • Go • Kubernetes • Containers • Linux • APIs • Automatización • CI/CD
+| Proyecto | Enfoque |
+|----------|----------|
+| golang-for-platform-engineers | Go aplicado a controllers, APIs y tooling |
+| k8s-labs | Laboratorios prácticos de Kubernetes |
+| platform-automation | Automatización de plataforma |
+| devsecops-labs | Seguridad en pipelines |
 
-⸻
+---
 
-🎯 Objetivo
+## 🛠 Stack técnico frecuente
 
-Ayudar a ingenieros a pasar de usar herramientas → a construir herramientas de plataforma.
+Go
+Kubernetes
+DevOps
+DevSecOps
+CI/CD
 
-⸻
+---
 
-🤝 Contribuciones
+## 🧪 Filosofía de aprendizaje
 
-Si quieres aportar ejemplos, mejoras o ejercicios: • abre un issue • propone un PR • comparte ideas
+- ✅ ejemplos ejecutables  
+- ✅ patrones de producción  
+- ✅ casos reales de plataforma  
+- ✅ código claro  
+- ✅ enfoque hands-on  
 
-⸻
+Aprender → Construir → Automatizar → Escalar
 
-📌 En progreso
+---
 
-Este espacio crece continuamente con nuevos labs y proyectos.
+## 📈 Actividad y estadísticas
+
+stats
+
+langs
+
+---
+
+## 🤝 Contribuir
+
+La comunidad crece con:
+
+- issues
+- pull requests
+- ideas de labs
+- mejoras de ejemplos
+- nuevos ejercicios
+
+---
+
+## 🎯 Objetivo
+
+Pasar de usar herramientas  
+➡️ a construir plataformas
+
+---
+
+## 📌 En construcción activa
+
+Nuevos laboratorios y proyectos se agregan continuame
